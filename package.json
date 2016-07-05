@@ -1,0 +1,19 @@
+{
+  "name": "exit-intent-mixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/EI.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackwine93v/exit-intent-mixin.git"
+  },
+  "author": "blackwine93v <daoquocvuong@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackwine93v/exit-intent-mixin/issues"
+  },
+  "homepage": "https://github.com/blackwine93v/exit-intent-mixin#readme"
+}
